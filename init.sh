@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 isok=0
 while [ $isok != 1 ]; do
 echo -n  "please input park_code ->"
@@ -53,3 +54,8 @@ curl http://127.0.0.1:8090/sync/syncParkFeeIndex
 curl http://127.0.0.1:8090/sync/syncParkBilling
 
 curl http://127.0.0.1:8090/sync/syncParkOperaterInfo
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f352b82e4b53e20b3dd7fbece053da9a4b53e95265bfe5560b1032e97e3ba6b
+size 1466
+>>>>>>> “第一次提交
